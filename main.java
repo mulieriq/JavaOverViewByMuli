@@ -12,6 +12,8 @@ public class main {
 
         System.out.print("Hello");
 
+        /// switch case with while loop
+
         int num = 0;
         while (num <= 100) {
             num++;
